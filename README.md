@@ -8,10 +8,12 @@ I have a twin brother
 
 Things that I am interested in:
 
-Machine Learning
-Skateboarding
-Gym
-Probability and Statistics
+Machine Learning,
+Skateboarding,
+Volleyball,
+Soccer,
+Gym,
+Probability and Statistics,
 
 Thats it!
 
