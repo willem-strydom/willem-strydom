@@ -1,10 +1,10 @@
-Hello!
+Hello:
 
 About me:
 
 I am a dual degree data sceince major at Washu. 
 I grew up in Homer, Alaska.
-I have a twin brother
+I have a twin brother.
 
 Things that I am interested in:
 
@@ -14,7 +14,8 @@ Volleyball,
 Soccer,
 Gym,
 Probability and Statistics,
-Unity Games,
+Unity,
+RL
 
 Thats it!
 
