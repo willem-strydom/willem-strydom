@@ -1,8 +1,8 @@
-Hello:
+Hello,
 
 About me:
 
-I am a dual degree data sceince major at Washu. 
+I am a data sceince major at WashU. 
 I grew up in Homer, Alaska.
 I have a twin brother.
 
